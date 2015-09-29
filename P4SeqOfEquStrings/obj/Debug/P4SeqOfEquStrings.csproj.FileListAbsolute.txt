@@ -1,0 +1,6 @@
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P4SeqOfEquStrings\bin\Debug\P4SeqOfEquStrings.exe.config
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P4SeqOfEquStrings\bin\Debug\P4SeqOfEquStrings.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P4SeqOfEquStrings\bin\Debug\P4SeqOfEquStrings.pdb
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P4SeqOfEquStrings\obj\Debug\P4SeqOfEquStrings.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P4SeqOfEquStrings\obj\Debug\P4SeqOfEquStrings.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P4SeqOfEquStrings\obj\Debug\P4SeqOfEquStrings.pdb

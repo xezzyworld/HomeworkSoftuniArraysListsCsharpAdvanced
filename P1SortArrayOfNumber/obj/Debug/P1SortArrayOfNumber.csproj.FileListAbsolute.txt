@@ -1,0 +1,6 @@
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P1SortArrayOfNumber\bin\Debug\P1SortArrayOfNumber.exe.config
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P1SortArrayOfNumber\bin\Debug\P1SortArrayOfNumber.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P1SortArrayOfNumber\bin\Debug\P1SortArrayOfNumber.pdb
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P1SortArrayOfNumber\obj\Debug\P1SortArrayOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P1SortArrayOfNumber\obj\Debug\P1SortArrayOfNumber.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P1SortArrayOfNumber\obj\Debug\P1SortArrayOfNumber.pdb

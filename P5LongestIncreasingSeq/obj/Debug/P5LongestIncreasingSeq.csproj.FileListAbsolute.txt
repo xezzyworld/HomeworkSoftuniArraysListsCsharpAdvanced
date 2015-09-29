@@ -1,0 +1,6 @@
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P5LongestIncreasingSeq\bin\Debug\P5LongestIncreasingSeq.exe.config
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P5LongestIncreasingSeq\bin\Debug\P5LongestIncreasingSeq.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P5LongestIncreasingSeq\bin\Debug\P5LongestIncreasingSeq.pdb
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P5LongestIncreasingSeq\obj\Debug\P5LongestIncreasingSeq.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P5LongestIncreasingSeq\obj\Debug\P5LongestIncreasingSeq.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P5LongestIncreasingSeq\obj\Debug\P5LongestIncreasingSeq.pdb

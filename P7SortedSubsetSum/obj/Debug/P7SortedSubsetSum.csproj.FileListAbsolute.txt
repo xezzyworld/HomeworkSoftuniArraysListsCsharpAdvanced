@@ -1,0 +1,6 @@
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P7SortedSubsetSum\bin\Debug\P7SortedSubsetSum.exe.config
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P7SortedSubsetSum\obj\Debug\P7SortedSubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P7SortedSubsetSum\bin\Debug\P7SortedSubsetSum.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P7SortedSubsetSum\bin\Debug\P7SortedSubsetSum.pdb
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P7SortedSubsetSum\obj\Debug\P7SortedSubsetSum.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P7SortedSubsetSum\obj\Debug\P7SortedSubsetSum.pdb

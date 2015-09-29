@@ -1,0 +1,6 @@
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P3IbaloSiMaikata\bin\Debug\P3IbaloSiMaikata.exe.config
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P3IbaloSiMaikata\obj\Debug\P3IbaloSiMaikata.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P3IbaloSiMaikata\bin\Debug\P3IbaloSiMaikata.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P3IbaloSiMaikata\bin\Debug\P3IbaloSiMaikata.pdb
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P3IbaloSiMaikata\obj\Debug\P3IbaloSiMaikata.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P3IbaloSiMaikata\obj\Debug\P3IbaloSiMaikata.pdb

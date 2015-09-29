@@ -1,0 +1,6 @@
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P6SubsetSum\bin\Debug\P6SubsetSum.exe.config
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P6SubsetSum\bin\Debug\P6SubsetSum.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P6SubsetSum\bin\Debug\P6SubsetSum.pdb
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P6SubsetSum\obj\Debug\P6SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P6SubsetSum\obj\Debug\P6SubsetSum.exe
+C:\Users\Sasho\Documents\Visual Studio 2015\Projects\HomeworkArraysListAdvanced\P6SubsetSum\obj\Debug\P6SubsetSum.pdb
